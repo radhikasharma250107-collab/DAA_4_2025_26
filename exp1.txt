@@ -43,3 +43,6 @@ int main(){
     complexRec(8);
     cout<<ops<<endl;
 }
+#recurrence relation : 3T(n/2) + nlogn + 2n
+#time complexity : O(n^log2^3)
+
